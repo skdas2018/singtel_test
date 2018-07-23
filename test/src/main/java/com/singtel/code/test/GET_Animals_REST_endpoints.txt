@@ -1,0 +1,13 @@
+Get the animals by type
+==========================
+/v1/api/animals/walk/
+/v1/api/animals/swim/
+/v1/api/animals/sing/
+/v1/api/animals/fly/
+
+Get the particular type of animal
+==================================
+/v1/api/animals/type/bird/
+/v1/api/animals/type/duck/
+/v1/api/animals/type/rooster/
+/v1/api/animals/type/fish/
